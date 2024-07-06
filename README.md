@@ -36,10 +36,13 @@ F1-score: Harmonic mean of precision and recall.
 Confusion matrix: Visualization of prediction errors.
 
 ### Results
-Model	              Accuracy	Precision	Recall	F1-Score
-Logistic Regression	 0.8814	      0.87	  0.89	 0.88
-Naive Bayes	         0.8814	      0.87	  0.89	 0.88
-Linear SVC	         0.8814	      0.87	  0.89	 0.88
+
+| Model             | Accuracy | Precision | Recall | F1-Score |
+|-------------------|:-------:|:--------:|:-----:|:-------:|
+| Logistic Regression | 0.8814   | 0.87      | 0.89   | 0.88    |
+| Naive Bayes      | 0.8814   | 0.87      | 0.89   | 0.88    |
+| Linear SVC        | 0.8814   | 0.87      | 0.89   | 0.88    |
+
 
 All three models demonstrated similar performance, achieving an accuracy of 88.14%. This indicates that they can effectively classify movie reviews as positive or negative. The confusion matrices also reveal a balanced performance in identifying both positive and negative sentiments.
 
