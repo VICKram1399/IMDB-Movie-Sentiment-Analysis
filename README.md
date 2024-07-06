@@ -1,6 +1,8 @@
 # Sentiment Analysis of IMDB Movie Reviews
 This project focuses on building a machine learning model for sentiment analysis of movie reviews. It explores the use of Natural Language Processing (NLP) techniques to classify reviews as positive or negative. The project is implemented in Python using the scikit-learn library and evaluates three different models: Logistic Regression, Naive Bayes, and Linear Support Vector Classification (SVC).
 
+# Dataset Link:- https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?datasetId=134715&sortBy=dateRun&tab=profile
+
 ## Project Overview:
 ### Problem Statement: 
 Classify movie reviews as either positive or negative sentiment based on their text content.
